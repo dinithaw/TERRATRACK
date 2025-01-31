@@ -1,2 +1,2 @@
 # TERRATRACK
-An Autonomous Agricultural Rover Built for our Iot Project
+An Autonomous Agricultural Rover Built for my Iot Project
